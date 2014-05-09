@@ -10,7 +10,7 @@ Updates:
 -	Original design was for 32 columns. This was reduced to 16 columns due to lack of RGB LEDs. The other sections have been updated to take this change into account.
 
 Here is an image of the 16x16 RGB Display:  
-<img src="https://raw.githubusercontent.com/a3alamgi/RGB_Display/master/images/ 19991231_224610.jpg"/>
+<img src="https://raw.githubusercontent.com/a3alamgi/RGB_Display/master/images/19991231_224610.jpg"/>
 
 Click below for a video of the display:  
 <a href="https://youtu.be/2PrOFA3ZqBM">https://youtu.be/2PrOFA3ZqBM</a>
@@ -77,13 +77,13 @@ Video 2: TLCShift, Video of shifting colours with TLC5940
 Figure 4: PCB from SeeedStudio
 
 <img src="https://raw.githubusercontent.com/a3alamgi/RGB_Display/master/images/DSC_0220.jpg"/>  
-Figure 5: DSC_0220, Soldering the PCB
+Figure 5: Soldering the PCB
 
 <img src="https://raw.githubusercontent.com/a3alamgi/RGB_Display/master/images/DSC_0222.jpg"/>  
 Figure 6: Testing and debugging the board (malfunctioning MOSFET) while soldering 
 
 <img src="https://raw.githubusercontent.com/a3alamgi/RGB_Display/master/images/DSC_0224.jpg"/>  
-Figure 7: DSC_0224, 16x16 RGB LED soldered!
+Figure 7: 16x16 RGB LED soldered!
 
 Future:
 -------
